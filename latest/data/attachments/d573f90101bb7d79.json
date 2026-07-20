@@ -1,0 +1,20 @@
+[
+  {
+    "method": "POST",
+    "url": "https://events.backtrace.io/api/summed-events/submit?universe=UNIVERSE&token=TOKEN",
+    "status": 401,
+    "timestamp": "2026-07-20T09:25:33.491Z"
+  },
+  {
+    "method": "POST",
+    "url": "https://events.backtrace.io/api/unique-events/submit?universe=UNIVERSE&token=TOKEN",
+    "status": 401,
+    "timestamp": "2026-07-20T09:25:33.514Z"
+  },
+  {
+    "method": "POST",
+    "url": "https://submit.backtrace.io/UNIVERSE/TOKEN/json",
+    "errorText": "net::ERR_FAILED",
+    "timestamp": "2026-07-20T09:25:36.478Z"
+  }
+]
