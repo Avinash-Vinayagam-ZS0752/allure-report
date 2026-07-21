@@ -1,0 +1,44 @@
+[
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/api/v1/Home/GetMenuPermissions/SPU",
+    "status": 401,
+    "timestamp": "2026-07-21T07:28:50.287Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://core2uatstorage.blob.core.windows.net/logocontainer/company-logo.png",
+    "errorText": "net::ERR_ABORTED",
+    "timestamp": "2026-07-21T07:28:50.288Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/",
+    "errorText": "net::ERR_ABORTED",
+    "timestamp": "2026-07-21T07:28:54.883Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://kit.fontawesome.com/1f849ba3a5.js",
+    "status": 403,
+    "timestamp": "2026-07-21T07:28:55.169Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://kit.fontawesome.com/1f849ba3a5.js",
+    "errorText": "net::ERR_ABORTED",
+    "timestamp": "2026-07-21T07:28:55.170Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://kit.fontawesome.com/1f849ba3a5.js",
+    "status": 403,
+    "timestamp": "2026-07-21T07:28:56.600Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://kit.fontawesome.com/1f849ba3a5.js",
+    "errorText": "net::ERR_ABORTED",
+    "timestamp": "2026-07-21T07:28:56.600Z"
+  }
+]
