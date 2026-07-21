@@ -1,0 +1,116 @@
+[
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/api/v1/Home/GetMenuPermissions/SPU",
+    "status": 401,
+    "timestamp": "2026-07-21T09:34:12.277Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://core2uatstorage.blob.core.windows.net/logocontainer/company-logo.png",
+    "errorText": "net::ERR_ABORTED",
+    "timestamp": "2026-07-21T09:34:12.353Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/",
+    "errorText": "net::ERR_ABORTED",
+    "timestamp": "2026-07-21T09:34:13.190Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://kit.fontawesome.com/1f849ba3a5.js",
+    "status": 403,
+    "timestamp": "2026-07-21T09:34:13.508Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://kit.fontawesome.com/1f849ba3a5.js",
+    "errorText": "net::ERR_ABORTED",
+    "timestamp": "2026-07-21T09:34:13.509Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://kit.fontawesome.com/1f849ba3a5.js",
+    "status": 403,
+    "timestamp": "2026-07-21T09:34:14.316Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://kit.fontawesome.com/1f849ba3a5.js",
+    "errorText": "net::ERR_ABORTED",
+    "timestamp": "2026-07-21T09:34:14.316Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/api/v1/Home/GetMenuPermissions/SPU",
+    "status": 401,
+    "timestamp": "2026-07-21T09:34:15.014Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/",
+    "errorText": "net::ERR_ABORTED",
+    "timestamp": "2026-07-21T09:34:16.126Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://kit.fontawesome.com/1f849ba3a5.js",
+    "status": 403,
+    "timestamp": "2026-07-21T09:34:16.378Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://kit.fontawesome.com/1f849ba3a5.js",
+    "errorText": "net::ERR_ABORTED",
+    "timestamp": "2026-07-21T09:34:16.378Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://kit.fontawesome.com/1f849ba3a5.js",
+    "status": 403,
+    "timestamp": "2026-07-21T09:34:17.167Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://kit.fontawesome.com/1f849ba3a5.js",
+    "errorText": "net::ERR_ABORTED",
+    "timestamp": "2026-07-21T09:34:17.167Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/api/v1/Home/GetMenuPermissions/SPU",
+    "status": 401,
+    "timestamp": "2026-07-21T09:34:17.544Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/",
+    "errorText": "net::ERR_ABORTED",
+    "timestamp": "2026-07-21T09:34:18.271Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://kit.fontawesome.com/1f849ba3a5.js",
+    "status": 403,
+    "timestamp": "2026-07-21T09:34:18.527Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://kit.fontawesome.com/1f849ba3a5.js",
+    "errorText": "net::ERR_ABORTED",
+    "timestamp": "2026-07-21T09:34:18.527Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://kit.fontawesome.com/1f849ba3a5.js",
+    "status": 403,
+    "timestamp": "2026-07-21T09:34:19.347Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://kit.fontawesome.com/1f849ba3a5.js",
+    "errorText": "net::ERR_ABORTED",
+    "timestamp": "2026-07-21T09:34:19.347Z"
+  }
+]
