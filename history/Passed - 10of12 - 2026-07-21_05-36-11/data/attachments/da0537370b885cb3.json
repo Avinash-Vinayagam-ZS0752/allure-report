@@ -1,0 +1,1381 @@
+[
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/",
+    "status": 200,
+    "durationMs": 71,
+    "timestamp": "2026-07-21T05:29:56.467Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css",
+    "status": 200,
+    "durationMs": 56,
+    "timestamp": "2026-07-21T05:29:56.536Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://fonts.googleapis.com/css2?family=Open+Sans:wght@200;300;400;500;600;700&display=swap",
+    "status": 200,
+    "durationMs": 68,
+    "timestamp": "2026-07-21T05:29:56.552Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/assets/index-uOlob7Js.css",
+    "status": 200,
+    "durationMs": 154,
+    "timestamp": "2026-07-21T05:29:56.644Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2",
+    "status": 200,
+    "durationMs": 54,
+    "timestamp": "2026-07-21T05:29:56.978Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/assets/index-DXSgCeVP.js",
+    "status": 200,
+    "durationMs": 1293,
+    "timestamp": "2026-07-21T05:29:57.783Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/api/v1/Home/GetMenuPermissions/SPU",
+    "status": 401,
+    "durationMs": 25,
+    "timestamp": "2026-07-21T05:30:01.300Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/authentication/login",
+    "status": 200,
+    "durationMs": 27,
+    "timestamp": "2026-07-21T05:30:01.332Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:01.405Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://fonts.googleapis.com/css2?family=Open+Sans:wght@200;300;400;500;600;700&display=swap",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:01.405Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/assets/index-DXSgCeVP.js",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:01.405Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/assets/index-uOlob7Js.css",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:01.405Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2",
+    "status": 200,
+    "durationMs": 1,
+    "timestamp": "2026-07-21T05:30:01.627Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/.well-known/openid-configuration",
+    "status": 200,
+    "durationMs": 22,
+    "timestamp": "2026-07-21T05:30:01.939Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/connect/authorize?client_id=COREII&redirect_uri=https%3A%2F%2Fuat.coreretirementsolutions.com%2Fauthentication%2Flogin-callback&response_type=code&scope=api%20openid%20profile%20roles%20email%20offline_access&state=75fc8bc5a40f4d368fecf800c4783dd2&code_challenge=AE4LoHtcC2x8iFrCwIKpYcJehdzuIrgSAbZBFKTUXbU&code_challenge_method=S256&prompt=none&response_mode=query",
+    "status": 302,
+    "durationMs": 38,
+    "timestamp": "2026-07-21T05:30:01.985Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/authentication/login-callback?error=login_required&error_description=The%20user%20is%20not%20logged%20in.&error_uri=https%3A%2F%2Fdocumentation.openiddict.com%2Ferrors%2FID2015&state=75fc8bc5a40f4d368fecf800c4783dd2&iss=https%3A%2F%2Fuat.coreretirementsolutions.com%2F",
+    "status": 200,
+    "durationMs": 25,
+    "timestamp": "2026-07-21T05:30:02.010Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:02.024Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://fonts.googleapis.com/css2?family=Open+Sans:wght@200;300;400;500;600;700&display=swap",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:02.025Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/assets/index-DXSgCeVP.js",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:02.025Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/assets/index-uOlob7Js.css",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:02.025Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:02.299Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/",
+    "status": 200,
+    "durationMs": 4,
+    "timestamp": "2026-07-21T05:30:02.362Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/connect/authorize?client_id=COREII&redirect_uri=https%3A%2F%2Fuat.coreretirementsolutions.com%2Fauthentication%2Flogin-callback&response_type=code&scope=api%20openid%20profile%20roles%20email%20offline_access&state=2230a23dd5e34d8196080da8abc613fb&code_challenge=L0jueHVS5lE7y_7V709NR1bxbYqw_flsm9Xjq-i2t3w&code_challenge_method=S256&response_mode=query",
+    "status": 302,
+    "durationMs": 40,
+    "timestamp": "2026-07-21T05:30:02.418Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/Identity/Account/Login?ReturnUrl=%2Fconnect%2Fauthorize%3Fclient_id%3DCOREII%26redirect_uri%3Dhttps%253A%252F%252Fuat.coreretirementsolutions.com%252Fauthentication%252Flogin-callback%26response_type%3Dcode%26scope%3Dapi%2520openid%2520profile%2520roles%2520email%2520offline_access%26state%3D2230a23dd5e34d8196080da8abc613fb%26code_challenge%3DL0jueHVS5lE7y_7V709NR1bxbYqw_flsm9Xjq-i2t3w%26code_challenge_method%3DS256%26response_mode%3Dquery",
+    "status": 200,
+    "durationMs": 26,
+    "timestamp": "2026-07-21T05:30:02.444Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/css/bootstrap.min.css",
+    "status": 200,
+    "durationMs": 19,
+    "timestamp": "2026-07-21T05:30:02.500Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css",
+    "status": 200,
+    "durationMs": 29,
+    "timestamp": "2026-07-21T05:30:02.510Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://core2uatstorage.blob.core.windows.net/logocontainer/company-logo.png",
+    "status": 200,
+    "durationMs": 30,
+    "timestamp": "2026-07-21T05:30:02.514Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://cdn.jsdelivr.net/npm/bootstrap@4.1.3/dist/css/bootstrap.min.css",
+    "status": 200,
+    "durationMs": 36,
+    "timestamp": "2026-07-21T05:30:02.517Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap",
+    "status": 200,
+    "durationMs": 37,
+    "timestamp": "2026-07-21T05:30:02.518Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css",
+    "status": 200,
+    "durationMs": 38,
+    "timestamp": "2026-07-21T05:30:02.522Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css",
+    "status": 200,
+    "durationMs": 38,
+    "timestamp": "2026-07-21T05:30:02.522Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/styles/site.css",
+    "status": 200,
+    "durationMs": 42,
+    "timestamp": "2026-07-21T05:30:02.526Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/img/Silde1.svg",
+    "status": 200,
+    "durationMs": 46,
+    "timestamp": "2026-07-21T05:30:02.530Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/img/Silde2.svg",
+    "status": 200,
+    "durationMs": 61,
+    "timestamp": "2026-07-21T05:30:02.545Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/img/Silde3.svg",
+    "status": 200,
+    "durationMs": 74,
+    "timestamp": "2026-07-21T05:30:02.558Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js",
+    "status": 200,
+    "durationMs": 79,
+    "timestamp": "2026-07-21T05:30:02.563Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/js/bootstrap.min.js",
+    "status": 200,
+    "durationMs": 99,
+    "timestamp": "2026-07-21T05:30:02.583Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js",
+    "status": 200,
+    "durationMs": 116,
+    "timestamp": "2026-07-21T05:30:02.601Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://ajax.aspnetcdn.com/ajax/jquery.validate/1.17.0/jquery.validate.min.js",
+    "status": 200,
+    "durationMs": 141,
+    "timestamp": "2026-07-21T05:30:02.626Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js",
+    "status": 200,
+    "durationMs": 153,
+    "timestamp": "2026-07-21T05:30:02.637Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://ajax.aspnetcdn.com/ajax/jquery.validation.unobtrusive/3.2.9/jquery.validate.unobtrusive.min.js",
+    "status": 200,
+    "durationMs": 152,
+    "timestamp": "2026-07-21T05:30:02.637Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/img/core-logo.png",
+    "status": 200,
+    "durationMs": 175,
+    "timestamp": "2026-07-21T05:30:02.659Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://kit.fontawesome.com/1f849ba3a5.js",
+    "status": 403,
+    "durationMs": 270,
+    "timestamp": "2026-07-21T05:30:02.754Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/webfonts/fa-solid-900.woff2",
+    "status": 200,
+    "durationMs": 64,
+    "timestamp": "2026-07-21T05:30:02.875Z"
+  },
+  {
+    "method": "POST",
+    "url": "https://uat.coreretirementsolutions.com/Identity/Account/Login?ReturnUrl=%2Fconnect%2Fauthorize%3Fclient_id%3DCOREII%26redirect_uri%3Dhttps%253A%252F%252Fuat.coreretirementsolutions.com%252Fauthentication%252Flogin-callback%26response_type%3Dcode%26scope%3Dapi%2520openid%2520profile%2520roles%2520email%2520offline_access%26state%3D2230a23dd5e34d8196080da8abc613fb%26code_challenge%3DL0jueHVS5lE7y_7V709NR1bxbYqw_flsm9Xjq-i2t3w%26code_challenge_method%3DS256%26response_mode%3Dquery",
+    "status": 200,
+    "durationMs": 29,
+    "timestamp": "2026-07-21T05:30:03.164Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://cdn.jsdelivr.net/npm/bootstrap@4.1.3/dist/css/bootstrap.min.css",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:03.179Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/css/bootstrap.min.css",
+    "status": 200,
+    "durationMs": 11,
+    "timestamp": "2026-07-21T05:30:03.190Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:03.191Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:03.191Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:03.191Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/styles/site.css",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:03.191Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css",
+    "status": 200,
+    "durationMs": 1,
+    "timestamp": "2026-07-21T05:30:03.192Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://core2uatstorage.blob.core.windows.net/logocontainer/company-logo.png",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:03.192Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/img/Silde1.svg",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:03.192Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/img/Silde2.svg",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:03.192Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/img/Silde3.svg",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:03.192Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/img/core-logo.png",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:03.192Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js",
+    "status": 200,
+    "durationMs": 3,
+    "timestamp": "2026-07-21T05:30:03.195Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/js/bootstrap.min.js",
+    "status": 200,
+    "durationMs": 1,
+    "timestamp": "2026-07-21T05:30:03.196Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:03.196Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:03.196Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://ajax.aspnetcdn.com/ajax/jquery.validate/1.17.0/jquery.validate.min.js",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:03.196Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://ajax.aspnetcdn.com/ajax/jquery.validation.unobtrusive/3.2.9/jquery.validate.unobtrusive.min.js",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:03.196Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://kit.fontawesome.com/1f849ba3a5.js",
+    "status": 403,
+    "durationMs": 224,
+    "timestamp": "2026-07-21T05:30:03.415Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/webfonts/fa-solid-900.woff2",
+    "status": 200,
+    "durationMs": 6,
+    "timestamp": "2026-07-21T05:30:03.444Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/",
+    "status": 200,
+    "durationMs": 2,
+    "timestamp": "2026-07-21T05:30:03.515Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css",
+    "status": 200,
+    "durationMs": 1,
+    "timestamp": "2026-07-21T05:30:03.526Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://fonts.googleapis.com/css2?family=Open+Sans:wght@200;300;400;500;600;700&display=swap",
+    "status": 200,
+    "durationMs": 1,
+    "timestamp": "2026-07-21T05:30:03.530Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/assets/index-DXSgCeVP.js",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:03.530Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/assets/index-uOlob7Js.css",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:03.530Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:03.934Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/api/v1/Home/GetMenuPermissions/SPU",
+    "status": 401,
+    "durationMs": 43,
+    "timestamp": "2026-07-21T05:30:04.102Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/authentication/login",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:04.102Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://core2uatstorage.blob.core.windows.net/logocontainer/company-logo.png",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:04.189Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css",
+    "status": 200,
+    "durationMs": 2,
+    "timestamp": "2026-07-21T05:30:04.204Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://fonts.googleapis.com/css2?family=Open+Sans:wght@200;300;400;500;600;700&display=swap",
+    "status": 200,
+    "durationMs": 3,
+    "timestamp": "2026-07-21T05:30:04.207Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/assets/index-DXSgCeVP.js",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:04.207Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/assets/index-uOlob7Js.css",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:04.207Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:04.609Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/.well-known/openid-configuration",
+    "status": 200,
+    "durationMs": 23,
+    "timestamp": "2026-07-21T05:30:04.716Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/connect/authorize?client_id=COREII&redirect_uri=https%3A%2F%2Fuat.coreretirementsolutions.com%2Fauthentication%2Flogin-callback&response_type=code&scope=api%20openid%20profile%20roles%20email%20offline_access&state=1025e87f122d43db88f6ba475846211e&code_challenge=6ujaVaiH5VfH0sHA8_7-k9A49ojJkOWES7PvHyCEtO4&code_challenge_method=S256&prompt=none&response_mode=query",
+    "status": 302,
+    "durationMs": 31,
+    "timestamp": "2026-07-21T05:30:04.751Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/authentication/login-callback?error=login_required&error_description=The%20user%20is%20not%20logged%20in.&error_uri=https%3A%2F%2Fdocumentation.openiddict.com%2Ferrors%2FID2015&state=1025e87f122d43db88f6ba475846211e&iss=https%3A%2F%2Fuat.coreretirementsolutions.com%2F",
+    "status": 200,
+    "durationMs": 26,
+    "timestamp": "2026-07-21T05:30:04.777Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css",
+    "status": 200,
+    "durationMs": 2,
+    "timestamp": "2026-07-21T05:30:04.796Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://fonts.googleapis.com/css2?family=Open+Sans:wght@200;300;400;500;600;700&display=swap",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:04.796Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/assets/index-DXSgCeVP.js",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:04.796Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/assets/index-uOlob7Js.css",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:04.796Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:05.198Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/",
+    "status": 200,
+    "durationMs": 3,
+    "timestamp": "2026-07-21T05:30:05.240Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/connect/authorize?client_id=COREII&redirect_uri=https%3A%2F%2Fuat.coreretirementsolutions.com%2Fauthentication%2Flogin-callback&response_type=code&scope=api%20openid%20profile%20roles%20email%20offline_access&state=f4ef41d6bc52484b81ece5a22e35d6bd&code_challenge=7J0C1HPczldCSDj2BPXxXNpTEccJGSe-3k0f14LzOz4&code_challenge_method=S256&response_mode=query",
+    "status": 302,
+    "durationMs": 26,
+    "timestamp": "2026-07-21T05:30:05.280Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/Identity/Account/Login?ReturnUrl=%2Fconnect%2Fauthorize%3Fclient_id%3DCOREII%26redirect_uri%3Dhttps%253A%252F%252Fuat.coreretirementsolutions.com%252Fauthentication%252Flogin-callback%26response_type%3Dcode%26scope%3Dapi%2520openid%2520profile%2520roles%2520email%2520offline_access%26state%3Df4ef41d6bc52484b81ece5a22e35d6bd%26code_challenge%3D7J0C1HPczldCSDj2BPXxXNpTEccJGSe-3k0f14LzOz4%26code_challenge_method%3DS256%26response_mode%3Dquery",
+    "status": 200,
+    "durationMs": 33,
+    "timestamp": "2026-07-21T05:30:05.314Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://cdn.jsdelivr.net/npm/bootstrap@4.1.3/dist/css/bootstrap.min.css",
+    "status": 200,
+    "durationMs": 5,
+    "timestamp": "2026-07-21T05:30:05.345Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/css/bootstrap.min.css",
+    "status": 200,
+    "durationMs": 1,
+    "timestamp": "2026-07-21T05:30:05.346Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:05.346Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:05.367Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:05.367Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/styles/site.css",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:05.367Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:05.372Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://core2uatstorage.blob.core.windows.net/logocontainer/company-logo.png",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:05.372Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/img/Silde1.svg",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:05.372Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/img/Silde2.svg",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:05.372Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/img/Silde3.svg",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:05.372Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/img/core-logo.png",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:05.372Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:05.373Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/js/bootstrap.min.js",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:05.373Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:05.373Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:05.373Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://ajax.aspnetcdn.com/ajax/jquery.validate/1.17.0/jquery.validate.min.js",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:05.373Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://ajax.aspnetcdn.com/ajax/jquery.validation.unobtrusive/3.2.9/jquery.validate.unobtrusive.min.js",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:05.373Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://kit.fontawesome.com/1f849ba3a5.js",
+    "status": 403,
+    "durationMs": 192,
+    "timestamp": "2026-07-21T05:30:05.559Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/webfonts/fa-solid-900.woff2",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:05.578Z"
+  },
+  {
+    "method": "POST",
+    "url": "https://uat.coreretirementsolutions.com/Identity/Account/Login?ReturnUrl=%2Fconnect%2Fauthorize%3Fclient_id%3DCOREII%26redirect_uri%3Dhttps%253A%252F%252Fuat.coreretirementsolutions.com%252Fauthentication%252Flogin-callback%26response_type%3Dcode%26scope%3Dapi%2520openid%2520profile%2520roles%2520email%2520offline_access%26state%3Df4ef41d6bc52484b81ece5a22e35d6bd%26code_challenge%3D7J0C1HPczldCSDj2BPXxXNpTEccJGSe-3k0f14LzOz4%26code_challenge_method%3DS256%26response_mode%3Dquery",
+    "status": 200,
+    "durationMs": 28,
+    "timestamp": "2026-07-21T05:30:06.009Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://cdn.jsdelivr.net/npm/bootstrap@4.1.3/dist/css/bootstrap.min.css",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:06.045Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/css/bootstrap.min.css",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:06.045Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:06.045Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:06.045Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:06.045Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/styles/site.css",
+    "status": 200,
+    "durationMs": 1,
+    "timestamp": "2026-07-21T05:30:06.046Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:06.046Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://core2uatstorage.blob.core.windows.net/logocontainer/company-logo.png",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:06.046Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/img/Silde1.svg",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:06.046Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/img/Silde2.svg",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:06.046Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/img/Silde3.svg",
+    "status": 200,
+    "durationMs": 2,
+    "timestamp": "2026-07-21T05:30:06.048Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/img/core-logo.png",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:06.048Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:06.048Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/js/bootstrap.min.js",
+    "status": 200,
+    "durationMs": 6,
+    "timestamp": "2026-07-21T05:30:06.054Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:06.054Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js",
+    "status": 200,
+    "durationMs": 3,
+    "timestamp": "2026-07-21T05:30:06.057Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://ajax.aspnetcdn.com/ajax/jquery.validate/1.17.0/jquery.validate.min.js",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:06.057Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://ajax.aspnetcdn.com/ajax/jquery.validation.unobtrusive/3.2.9/jquery.validate.unobtrusive.min.js",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:06.057Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://kit.fontawesome.com/1f849ba3a5.js",
+    "status": 403,
+    "durationMs": 213,
+    "timestamp": "2026-07-21T05:30:06.258Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/webfonts/fa-solid-900.woff2",
+    "status": 200,
+    "durationMs": 5,
+    "timestamp": "2026-07-21T05:30:06.277Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/",
+    "status": 200,
+    "durationMs": 2,
+    "timestamp": "2026-07-21T05:30:06.352Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css",
+    "status": 200,
+    "durationMs": 1,
+    "timestamp": "2026-07-21T05:30:06.363Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://fonts.googleapis.com/css2?family=Open+Sans:wght@200;300;400;500;600;700&display=swap",
+    "status": 200,
+    "durationMs": 2,
+    "timestamp": "2026-07-21T05:30:06.366Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/assets/index-DXSgCeVP.js",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:06.366Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/assets/index-uOlob7Js.css",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:06.366Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:06.572Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/api/v1/Home/GetMenuPermissions/SPU",
+    "status": 401,
+    "durationMs": 38,
+    "timestamp": "2026-07-21T05:30:06.688Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/authentication/login",
+    "status": 200,
+    "durationMs": 3,
+    "timestamp": "2026-07-21T05:30:06.705Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://core2uatstorage.blob.core.windows.net/logocontainer/company-logo.png",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:06.738Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:06.748Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://fonts.googleapis.com/css2?family=Open+Sans:wght@200;300;400;500;600;700&display=swap",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:06.748Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/assets/index-DXSgCeVP.js",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:06.748Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/assets/index-uOlob7Js.css",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:06.749Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:06.944Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/.well-known/openid-configuration",
+    "status": 200,
+    "durationMs": 41,
+    "timestamp": "2026-07-21T05:30:07.027Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/connect/authorize?client_id=COREII&redirect_uri=https%3A%2F%2Fuat.coreretirementsolutions.com%2Fauthentication%2Flogin-callback&response_type=code&scope=api%20openid%20profile%20roles%20email%20offline_access&state=1c834927654d47f4abd5b4dd94c1bdf5&code_challenge=MX2ywx8tFFmBi0WKNuRMb16JfLmmCikvD_-u5BTdmnM&code_challenge_method=S256&prompt=none&response_mode=query",
+    "status": 302,
+    "durationMs": 23,
+    "timestamp": "2026-07-21T05:30:07.050Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/authentication/login-callback?error=login_required&error_description=The%20user%20is%20not%20logged%20in.&error_uri=https%3A%2F%2Fdocumentation.openiddict.com%2Ferrors%2FID2015&state=1c834927654d47f4abd5b4dd94c1bdf5&iss=https%3A%2F%2Fuat.coreretirementsolutions.com%2F",
+    "status": 200,
+    "durationMs": 23,
+    "timestamp": "2026-07-21T05:30:07.073Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css",
+    "status": 200,
+    "durationMs": 1,
+    "timestamp": "2026-07-21T05:30:07.086Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://fonts.googleapis.com/css2?family=Open+Sans:wght@200;300;400;500;600;700&display=swap",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:07.086Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/assets/index-DXSgCeVP.js",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:07.086Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/assets/index-uOlob7Js.css",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:07.086Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:07.321Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/",
+    "status": 200,
+    "durationMs": 3,
+    "timestamp": "2026-07-21T05:30:07.366Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/connect/authorize?client_id=COREII&redirect_uri=https%3A%2F%2Fuat.coreretirementsolutions.com%2Fauthentication%2Flogin-callback&response_type=code&scope=api%20openid%20profile%20roles%20email%20offline_access&state=3b9f2580e7474422a1b141a0cd424f70&code_challenge=bBzM92en3vvHG0VuIOYy0E-T4ZS7qNKBnLz_TwzJbWU&code_challenge_method=S256&response_mode=query",
+    "status": 302,
+    "durationMs": 31,
+    "timestamp": "2026-07-21T05:30:07.401Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/Identity/Account/Login?ReturnUrl=%2Fconnect%2Fauthorize%3Fclient_id%3DCOREII%26redirect_uri%3Dhttps%253A%252F%252Fuat.coreretirementsolutions.com%252Fauthentication%252Flogin-callback%26response_type%3Dcode%26scope%3Dapi%2520openid%2520profile%2520roles%2520email%2520offline_access%26state%3D3b9f2580e7474422a1b141a0cd424f70%26code_challenge%3DbBzM92en3vvHG0VuIOYy0E-T4ZS7qNKBnLz_TwzJbWU%26code_challenge_method%3DS256%26response_mode%3Dquery",
+    "status": 200,
+    "durationMs": 24,
+    "timestamp": "2026-07-21T05:30:07.425Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://cdn.jsdelivr.net/npm/bootstrap@4.1.3/dist/css/bootstrap.min.css",
+    "status": 200,
+    "durationMs": 1,
+    "timestamp": "2026-07-21T05:30:07.439Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/css/bootstrap.min.css",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:07.447Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:07.447Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css",
+    "status": 200,
+    "durationMs": 1,
+    "timestamp": "2026-07-21T05:30:07.448Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:07.448Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/styles/site.css",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:07.448Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:07.448Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://core2uatstorage.blob.core.windows.net/logocontainer/company-logo.png",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:07.448Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/img/Silde1.svg",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:07.448Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/img/Silde2.svg",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:07.448Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/img/Silde3.svg",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:07.450Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/img/core-logo.png",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:07.450Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:07.450Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/js/bootstrap.min.js",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:07.450Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:07.450Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:07.452Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://ajax.aspnetcdn.com/ajax/jquery.validate/1.17.0/jquery.validate.min.js",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:07.452Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://ajax.aspnetcdn.com/ajax/jquery.validation.unobtrusive/3.2.9/jquery.validate.unobtrusive.min.js",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:07.452Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://kit.fontawesome.com/1f849ba3a5.js",
+    "status": 403,
+    "durationMs": 228,
+    "timestamp": "2026-07-21T05:30:07.676Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/webfonts/fa-solid-900.woff2",
+    "status": 200,
+    "durationMs": 5,
+    "timestamp": "2026-07-21T05:30:07.692Z"
+  },
+  {
+    "method": "POST",
+    "url": "https://uat.coreretirementsolutions.com/Identity/Account/Login?ReturnUrl=%2Fconnect%2Fauthorize%3Fclient_id%3DCOREII%26redirect_uri%3Dhttps%253A%252F%252Fuat.coreretirementsolutions.com%252Fauthentication%252Flogin-callback%26response_type%3Dcode%26scope%3Dapi%2520openid%2520profile%2520roles%2520email%2520offline_access%26state%3D3b9f2580e7474422a1b141a0cd424f70%26code_challenge%3DbBzM92en3vvHG0VuIOYy0E-T4ZS7qNKBnLz_TwzJbWU%26code_challenge_method%3DS256%26response_mode%3Dquery",
+    "status": 200,
+    "durationMs": 26,
+    "timestamp": "2026-07-21T05:30:08.091Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://cdn.jsdelivr.net/npm/bootstrap@4.1.3/dist/css/bootstrap.min.css",
+    "status": 200,
+    "durationMs": 2,
+    "timestamp": "2026-07-21T05:30:08.109Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/css/bootstrap.min.css",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:08.111Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:08.111Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:08.111Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css",
+    "status": 200,
+    "durationMs": 4,
+    "timestamp": "2026-07-21T05:30:08.115Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/styles/site.css",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:08.126Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:08.126Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://core2uatstorage.blob.core.windows.net/logocontainer/company-logo.png",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:08.126Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/img/Silde1.svg",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:08.126Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/img/Silde2.svg",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:08.126Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/img/Silde3.svg",
+    "status": 200,
+    "durationMs": 1,
+    "timestamp": "2026-07-21T05:30:08.127Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://uat.coreretirementsolutions.com/img/core-logo.png",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:08.127Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js",
+    "status": 200,
+    "durationMs": 3,
+    "timestamp": "2026-07-21T05:30:08.130Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/js/bootstrap.min.js",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:08.130Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:08.130Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:08.130Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://ajax.aspnetcdn.com/ajax/jquery.validate/1.17.0/jquery.validate.min.js",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:08.130Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://ajax.aspnetcdn.com/ajax/jquery.validation.unobtrusive/3.2.9/jquery.validate.unobtrusive.min.js",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:08.130Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://kit.fontawesome.com/1f849ba3a5.js",
+    "status": 403,
+    "durationMs": 227,
+    "timestamp": "2026-07-21T05:30:08.338Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/webfonts/fa-solid-900.woff2",
+    "status": 200,
+    "durationMs": 0,
+    "timestamp": "2026-07-21T05:30:08.356Z"
+  }
+]
