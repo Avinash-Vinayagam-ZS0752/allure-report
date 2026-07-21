@@ -1,0 +1,107 @@
+[
+  {
+    "method": "GET",
+    "url": "https://www.saucedemo.com/",
+    "status": 200,
+    "durationMs": 271,
+    "timestamp": "2026-07-21T07:19:19.348Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.saucedemo.com/assets/index-Co7SA-g_.css",
+    "status": 200,
+    "durationMs": 12,
+    "timestamp": "2026-07-21T07:19:19.368Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.saucedemo.com/assets/index-XyuNVFOR.js",
+    "status": 200,
+    "durationMs": 48,
+    "timestamp": "2026-07-21T07:19:19.404Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@400;500",
+    "status": 200,
+    "durationMs": 63,
+    "timestamp": "2026-07-21T07:19:19.419Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://fonts.gstatic.com/s/dmsans/v17/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu0-K4.woff2",
+    "status": 200,
+    "durationMs": 44,
+    "timestamp": "2026-07-21T07:19:19.539Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://fonts.gstatic.com/s/dmmono/v16/aFTR7PB1QTsUX8KYvumzEYOtbQ.woff2",
+    "status": 200,
+    "durationMs": 45,
+    "timestamp": "2026-07-21T07:19:19.541Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://fonts.gstatic.com/s/dmmono/v16/aFTU7PB1QTsUX8KYthqQBA.woff2",
+    "status": 200,
+    "durationMs": 51,
+    "timestamp": "2026-07-21T07:19:19.546Z"
+  },
+  {
+    "method": "POST",
+    "url": "https://events.backtrace.io/api/summed-events/submit?universe=UNIVERSE&token=TOKEN",
+    "status": 401,
+    "durationMs": 1348,
+    "timestamp": "2026-07-21T07:19:20.820Z"
+  },
+  {
+    "method": "POST",
+    "url": "https://events.backtrace.io/api/unique-events/submit?universe=UNIVERSE&token=TOKEN",
+    "status": 401,
+    "durationMs": 1398,
+    "timestamp": "2026-07-21T07:19:20.870Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.saucedemo.com/assets/sauce-backpack-1200x1500-CjRW-Djj.jpg",
+    "status": 200,
+    "durationMs": 7,
+    "timestamp": "2026-07-21T07:19:24.688Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.saucedemo.com/assets/bike-light-1200x1500-DxcZRFOA.jpg",
+    "status": 200,
+    "durationMs": 7,
+    "timestamp": "2026-07-21T07:19:24.688Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.saucedemo.com/assets/bolt-shirt-1200x1500-mR0ldpVS.jpg",
+    "status": 200,
+    "durationMs": 7,
+    "timestamp": "2026-07-21T07:19:24.688Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.saucedemo.com/assets/sauce-pullover-1200x1500-BfbI-PSd.jpg",
+    "status": 200,
+    "durationMs": 10,
+    "timestamp": "2026-07-21T07:19:24.691Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.saucedemo.com/assets/red-tatt-1200x1500-E-qp6aYf.jpg",
+    "status": 200,
+    "durationMs": 12,
+    "timestamp": "2026-07-21T07:19:24.693Z"
+  },
+  {
+    "method": "GET",
+    "url": "https://www.saucedemo.com/assets/red-onesie-1200x1500-BrSuq0ic.jpg",
+    "status": 200,
+    "durationMs": 12,
+    "timestamp": "2026-07-21T07:19:24.693Z"
+  }
+]

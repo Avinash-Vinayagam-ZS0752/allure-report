@@ -1,0 +1,8 @@
+[
+  {
+    "level": "error",
+    "text": "Failed to load resource: the server responded with a status of 401 ()",
+    "location": "https://uat.coreretirementsolutions.com/api/v1/Home/GetMenuPermissions/SPU",
+    "timestamp": "2026-07-21T07:19:06.599Z"
+  }
+]
