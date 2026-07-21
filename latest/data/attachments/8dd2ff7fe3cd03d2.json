@@ -1,0 +1,56 @@
+[
+  {
+    "level": "error",
+    "text": "Failed to load resource: the server responded with a status of 401 ()",
+    "location": "https://uat.coreretirementsolutions.com/api/v1/Home/GetMenuPermissions/SPU",
+    "timestamp": "2026-07-21T07:37:25.008Z"
+  },
+  {
+    "level": "error",
+    "text": "Failed to load resource: the server responded with a status of 403 ()",
+    "location": "https://kit.fontawesome.com/1f849ba3a5.js",
+    "timestamp": "2026-07-21T07:37:26.362Z"
+  },
+  {
+    "level": "error",
+    "text": "Failed to load resource: the server responded with a status of 403 ()",
+    "location": "https://kit.fontawesome.com/1f849ba3a5.js",
+    "timestamp": "2026-07-21T07:37:27.151Z"
+  },
+  {
+    "level": "error",
+    "text": "Failed to load resource: the server responded with a status of 401 ()",
+    "location": "https://uat.coreretirementsolutions.com/api/v1/Home/GetMenuPermissions/SPU",
+    "timestamp": "2026-07-21T07:37:27.552Z"
+  },
+  {
+    "level": "error",
+    "text": "Failed to load resource: the server responded with a status of 403 ()",
+    "location": "https://kit.fontawesome.com/1f849ba3a5.js",
+    "timestamp": "2026-07-21T07:37:28.515Z"
+  },
+  {
+    "level": "error",
+    "text": "Failed to load resource: the server responded with a status of 403 ()",
+    "location": "https://kit.fontawesome.com/1f849ba3a5.js",
+    "timestamp": "2026-07-21T07:37:29.345Z"
+  },
+  {
+    "level": "error",
+    "text": "Failed to load resource: the server responded with a status of 401 ()",
+    "location": "https://uat.coreretirementsolutions.com/api/v1/Home/GetMenuPermissions/SPU",
+    "timestamp": "2026-07-21T07:37:29.752Z"
+  },
+  {
+    "level": "error",
+    "text": "Failed to load resource: the server responded with a status of 403 ()",
+    "location": "https://kit.fontawesome.com/1f849ba3a5.js",
+    "timestamp": "2026-07-21T07:37:30.820Z"
+  },
+  {
+    "level": "error",
+    "text": "Failed to load resource: the server responded with a status of 403 ()",
+    "location": "https://kit.fontawesome.com/1f849ba3a5.js",
+    "timestamp": "2026-07-21T07:37:31.602Z"
+  }
+]

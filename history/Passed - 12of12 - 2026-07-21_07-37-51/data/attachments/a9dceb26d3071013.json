@@ -1,0 +1,26 @@
+[
+  {
+    "level": "error",
+    "text": "Failed to load resource: the server responded with a status of 401 (Unauthorized)",
+    "location": "https://events.backtrace.io/api/unique-events/submit?universe=UNIVERSE&token=TOKEN",
+    "timestamp": "2026-07-21T07:37:38.087Z"
+  },
+  {
+    "level": "error",
+    "text": "Failed to load resource: the server responded with a status of 401 (Unauthorized)",
+    "location": "https://events.backtrace.io/api/summed-events/submit?universe=UNIVERSE&token=TOKEN",
+    "timestamp": "2026-07-21T07:37:38.138Z"
+  },
+  {
+    "level": "error",
+    "text": "Access to fetch at 'https://submit.backtrace.io/UNIVERSE/TOKEN/json' from origin 'https://www.saucedemo.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+    "location": "https://www.saucedemo.com/",
+    "timestamp": "2026-07-21T07:37:41.099Z"
+  },
+  {
+    "level": "error",
+    "text": "Failed to load resource: net::ERR_FAILED",
+    "location": "https://submit.backtrace.io/UNIVERSE/TOKEN/json",
+    "timestamp": "2026-07-21T07:37:41.100Z"
+  }
+]
